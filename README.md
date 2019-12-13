@@ -28,7 +28,7 @@ The requirements are listed under the _Minimum Viable Product_ section below.
 
 Follow these steps to setup your git _fork_ and _branch_.
 
-- [ ] Fork this repository.
+- [x] Fork this repository.
 - [ ] Use GitHub's website to add your project manager as collaborator on **your fork**.
 - [ ] **Clone your forked version** of the repository (**Not Lambda's**!).
 - [ ] Create a new branch: `git checkout -b <firstName-lastName>`.
@@ -77,3 +77,6 @@ This section is **optional** and not counted towards MVP. Start working on it af
 - Expand the solution to keep track of which bases are occupied and to record hits, doubles, triples and home runs.
 - Expand the solution to keep track of all activity across all innings. Display the current inning.
 - Work on [this repository for extra practice testing a legacy React application](https://github.com/LambdaSchool/React-Testing).
+
+
+(((test commit)))
